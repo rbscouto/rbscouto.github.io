@@ -1,12 +1,14 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile-pic.jpeg
   alt: website picture
 ---
 
 <p>
-  Hi! I'm a Maths PhD student at the University of Porto and at the University of St Andrews (co-tutelle) working under the supervision of Ana Cristina Freitas, Jorge Freitas and Mike Todd. My resesarch interests 
+  Hi! I'm a Maths PhD student at the University of Porto and at the University of St Andrews (co-tutelle) working under the supervision of Ana Cristina Freitas, Jorge Freitas and Mike Todd. I did my undergraduate studies in 
+  
+  My resesarch interests 
 </p>
 
 # <a href="http://dangrover.com">website</a>
