@@ -4,7 +4,7 @@ profile_picture:
   src: /assets/img/profile-pic.jpeg
 ---
 
-<p> Hi! I'm a maths PhD student at the University of Porto and at the University of St Andrews (co-tutelle) working under the supervision of Ana Cristina Freitas, Jorge Freitas and Mike Todd. Before starting my PhD, I completed undergraduate and MSc studies in mathematics, both at the University of Porto.</p>
+<p> Hi! I'm a maths PhD student at the University of Porto and at the University of St Andrews (co-tutelle) working under the joint supervision of Ana Cristina Freitas, Jorge Freitas and Mike Todd. Before starting my PhD, I completed undergraduate and MSc studies in mathematics, both at the University of Porto.</p>
   
 <p> I'm broadly interested in dynamical systems and probability. My PhD project focuses on the employment of extreme value theory in the study of chaotic systems.</p>
 
