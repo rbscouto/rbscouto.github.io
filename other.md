@@ -12,9 +12,9 @@ Miscellaneous of mathematical and non-mathematical topics.
 
 <p> In 2017 we founded iNIGMA - Núcleo de Estudantes de Matemática da Universidade do Porto, which gave iNIGMA the legal status of a Students' Union. I was in the first board as vice-president.</p>
 
-<p> In 2018 iNIGMA organised "Jornadas de Matemática da Universidade do Porto", a 3 day event aimed at students from Porto whose program consisted of mathematical communications, contact with external employers and a social component. I was in the second board as vice-president.</p>
+<p> In 2018 iNIGMA organised "Jornadas de Matemática da Universidade do Porto", a 3 day event aimed at students from Porto whose program consisted of mathematical communications, contact with external employers and a social component. Highlights <a href="https://www.youtube.com/watch?v=AB3b_Np7c0A&t=5s">video</a>. I was in the second board as vice-president.</p>
 
-<p> In 2019 iNIGMA organised "ENEMath 19 - Encontro Nacional de Estudantes de Matemática", a 4 day event aimed at students from Portugal whose program consisted of mathematical communications, contact with external employers and a social component. I was in the third board as vice-president.</p>
+<p> In 2019 iNIGMA organised "ENEMath 19 - Encontro Nacional de Estudantes de Matemática", a 4 day event aimed at students from Portugal whose program consisted of mathematical communications, contact with external employers and a social component. Highlights <a href="https://www.youtube.com/watch?v=wVoqHy1H4rA">video</a>. I was in the third board as vice-president.</p>
 
 Have a look at <a href="https://www.facebook.com/inigmafcup/">iNIGMA</a> on Facebook!
 
