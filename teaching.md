@@ -6,10 +6,14 @@ slug: /teaching
 
 Here is my teaching experience.
 
-<h3> St Andrews </h3>
+<h3> University of St Andrews </h3>
 
 - MT1002 - Mathematics - Tutor (Spring 2022)
 - MT2502 - Analysis - Tutor (Autumn 2021)
+
+<h3> University of Porto </h3>
+
+- Mathematics Summer School - Monitor (September 2017): preparation and delivery of a mini-course on binary games aimed at high school students.
 
 <h3> Private </h3>
 
