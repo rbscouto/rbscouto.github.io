@@ -10,5 +10,12 @@ items:
 ---
 
 Here you can find about the talks I gave on my research and relevant events I attended.
+
+<h1> Talks </h1>
+
+3. JETS meeting
+2. CMUP Informal Seminar
+1. St Andrews Analysis seminar
+
 <br />
 <br />
