@@ -13,7 +13,7 @@ Here is my teaching experience.
 
 <h3> University of Porto </h3>
 
-- Mathematics Summer School - Monitor (September 2017): preparation and delivery of a mini-course on binary games aimed at high school students.
+- Mathematics Summer School - Monitor (September 2017): preparation and delivery of a mini-course on binary games to high school students.
 
 <h3> Private </h3>
 
