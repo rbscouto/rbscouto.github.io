@@ -6,7 +6,7 @@ slug: /research
 
 Here you can find about the talks I gave on my research and some relevant events I attended.
 
-<h4> Talks </h4>
+<h3> Talks </h3>
 
 3. JETS meeting
 2. CMUP Informal Seminar
