@@ -14,7 +14,8 @@ header:
     - name: Home
       slug: /
     - name: Research
-    - name: Miscellaneous
+    - name: Teaching
+    - name: Other
 
 footer:
   show_powered_by: false
