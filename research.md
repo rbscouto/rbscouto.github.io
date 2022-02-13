@@ -4,7 +4,7 @@ title: Research
 slug: /research
 ---
 
-Here you can find out about the talks I gave on my research and some relevant events I attended.
+Here you can find out about the talks I gave on my research as well as some relevant events I attended.
 
 <h3> Talks </h3>
 
