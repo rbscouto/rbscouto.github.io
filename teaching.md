@@ -6,10 +6,10 @@ slug: /teaching
 
 Here is my teaching experience.
 
-<h3> St Andrews - 2021/2022 </h3>
+<h3> St Andrews </h3>
 
-- MT1002 - Mathematics - Tutor
-- MT2502 - Analysis - Tutor
+- MT1002 - Mathematics - Tutor (Spring 2022)
+- MT2502 - Analysis - Tutor (Autumn 2021)
 
 <h3> Private </h3>
 
