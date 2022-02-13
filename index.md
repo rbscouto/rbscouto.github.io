@@ -8,7 +8,7 @@ profile_picture:
   
 <p> Before starting my PhD, I completed undergraduate and MSc studies in mathematics, both at the University of Porto.</p>
   
-<p> I'm broadly interested in dynamical systems and probability. My PhD project focuses on the (statistical) study of chaotic systems using primarily extreme value theory.</p>
+<p> I'm broadly interested in dynamical systems and probability. My PhD project focuses on the (statistical) study of chaotic systems through machinery from extreme value theory.</p>
 
 <p> Outside of maths, I'm very passionate about sports and I may show up as a volleyball player (amateur competitive level). I also deeply enjoy travelling and standing in the sun.</p>
 
