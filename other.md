@@ -4,7 +4,7 @@ title: Other
 slug: /other
 ---
 
-Here you can find out about the talks I gave on my research and some relevant events I attended.
+Miscelleneaous of mathematical and non-mathematical facts.
 
 <h3> <a href="https://www.facebook.com/inigmafcup/">iNIGMA</a> </h3>
 
