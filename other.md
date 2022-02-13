@@ -4,7 +4,7 @@ title: Other
 slug: /other
 ---
 
-Miscelleneaous of mathematical and non-mathematical topics.
+Miscellaneous of mathematical and non-mathematical topics.
 
 <h3> <a href="https://www.facebook.com/inigmafcup/">iNIGMA</a> </h3>
 
