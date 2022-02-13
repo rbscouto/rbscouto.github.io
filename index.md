@@ -8,6 +8,6 @@ profile_picture:
   
 <p> I'm broadly interested in dynamical systems and probability. My PhD project focuses on the employment of extreme value theory (for dynamical systems) in the study of chaotic systems.</p>
 
-<p> Outside of maths, </p>
+<p> Outside of maths, I'm very passionate about sports and I ocassionally become a volleyball player at an amateur competitive level. </p>
 
 
