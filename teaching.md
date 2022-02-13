@@ -1,18 +1,17 @@
 ---
-layout: research
-title: Research
-slug: /research
+layout: teaching
+title: Teaching
+slug: /teaching
 ---
 
-Here you can find about the talks I gave on my research and some relevant events I attended.
+Here is my teaching experience.
 
-<h3> Talks </h3>
+<h3> St Andrews </h3>
 
-3. JETS meeting
-2. CMUP Informal Seminar
-1. St Andrews Analysis seminar
+- MT1002 - Mathematics
+- MT2502 - Analysis
 
-<h3> Conferences/Workshops </h3>
+<h3> Private </h3>
 
 1. Transfer Op
 
