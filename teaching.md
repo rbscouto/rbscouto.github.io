@@ -6,14 +6,14 @@ slug: /teaching
 
 Here is my teaching experience.
 
-<h3> St Andrews </h3>
+<h3> St Andrews - 2021/2022 </h3>
 
-- MT1002 - Mathematics
-- MT2502 - Analysis
+- MT1002 - Mathematics - Tutor
+- MT2502 - Analysis - Tutor
 
 <h3> Private </h3>
 
-1. Transfer Op
+Private tutoring of several mathematical modules (Linear Algebra, Analysis, Vector Calculus, Numerical Analysis) to first and second year undergraduate students in engeneering.
 
 <br />
 <br />
