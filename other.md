@@ -22,7 +22,7 @@ Have a look at <a href="https://www.facebook.com/inigmafcup/">iNIGMA</a> on Face
 
 <h3> Distinction </h3>
 
-- Best high school graduate: I graduated with final grade of 19.7/20.0 which is the grade point average of 10 subjects, 4 of which with national exam grade worth 30% of the final grade (Portuguese, Maths, Physics and Chemistry, Descriptive Geometry).
+- Best high school graduate: I graduated with final grade of 19.7/20.0 which is the grade point average of 10 subjects, 4 of which with national exam grade worth 30% of the final grade (Portuguese, Maths, Physics and Chemistry, Descriptive Geometry); it was the best grade in the class of 2011.
 
 <br />
 <br />
