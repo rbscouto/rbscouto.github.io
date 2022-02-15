@@ -9,9 +9,9 @@ Here you can find out about the talks I gave on my research as well as some rele
 <h3> Talks </h3>
 
 <ol reversed>
-  <li> March 2021 - Clustering patterns of rare events - St Andrews Analysis Seminar (online-<a href="https://www.youtube.com/watch?v=bpUesUzJzsw">video</a>)</li>
-  <li> April 2021 - Living a PhD to the extreme - CMUP Informal PhD Seminar (online)</li>
   <li> May 2021 - Clustering patterns of rare events - Junior Ergodic Theory Seminar (online)</li>
+  <li> April 2021 - Living a PhD to the extreme - CMUP Informal PhD Seminar (online)</li>
+  <li> March 2021 - Clustering patterns of rare events - St Andrews Analysis Seminar (online-<a href="https://www.youtube.com/watch?v=bpUesUzJzsw">video</a>)</li>
 </ol>
 
 3. May 2021 - Clustering patterns of rare events - Junior Ergodic Theory Seminar (online)
@@ -20,8 +20,10 @@ Here you can find out about the talks I gave on my research as well as some rele
 
 <h3> Conferences/Workshops </h3>
 
-2. June 2021 - Workshop on Deterministic Extremes and Recurrence - Exeter (online)
-1. March 2021 - Spring School on Transfer Operators (Classical and Modern Techniques) - Bernoulli Centre, Lausanne (online)
+<ol reversed>
+  <li> June 2021 - Workshop on Deterministic Extremes and Recurrence - Exeter (online)</li>
+  <li> March 2021 - Spring School on Transfer Operators (Classical and Modern Techniques) - Bernoulli Centre, Lausanne (online)</li>
+</ol>
 
 <br />
 <br />
