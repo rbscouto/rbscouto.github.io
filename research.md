@@ -8,6 +8,12 @@ Here you can find out about the talks I gave on my research as well as some rele
 
 <h3> Talks </h3>
 
+<ol reversed>
+  <li> March 2021 - Clustering patterns of rare events - St Andrews Analysis Seminar (online-<a href="https://www.youtube.com/watch?v=bpUesUzJzsw">video</a>)</li>
+  <li> April 2021 - Living a PhD to the extreme - CMUP Informal PhD Seminar (online)</li>
+  <li> May 2021 - Clustering patterns of rare events - Junior Ergodic Theory Seminar (online)</li>
+</ol>
+
 3. May 2021 - Clustering patterns of rare events - Junior Ergodic Theory Seminar (online)
 2. April 2021 - Living a PhD to the extreme - CMUP Informal PhD Seminar (online)
 1. March 2021 - Clustering patterns of rare events - St Andrews Analysis Seminar (online-<a href="https://www.youtube.com/watch?v=bpUesUzJzsw">video</a>)
