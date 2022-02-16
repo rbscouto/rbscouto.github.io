@@ -22,7 +22,7 @@ Have a look at <a href="https://www.facebook.com/inigmafcup/">iNIGMA</a> on Face
 
 <h3> Distinction </h3>
 
-I graduated from high school with final grade of 19.7/20.0 which is the average of the final grades for 10 modules, 4 of which with national exam grade worth 30% of their final grade (Portuguese, Maths, Physics and Chemistry, Descriptive Geometry). My grade was the best in the class of 2011 at Escola Secundária Dr. Manuel Gomes de Almeida.
+I graduated from high school with final grade of 19.7/20.0 which is the average of the final grades in 10 courses, 4 of which with national exam grade worth 30% of their final grade (Portuguese, Maths, Physics and Chemistry, Descriptive Geometry). My grade was the best in the class of 2011 at Escola Secundária Dr. Manuel Gomes de Almeida.
 
 <br />
 <br />
