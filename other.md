@@ -16,7 +16,7 @@ Miscellaneous of mathematical and non-mathematical facts.
 
 <p> In 2019, iNIGMA organised "ENEMath 19 - Encontro Nacional de Estudantes de Matemática", a 4 day event aimed at students from Portugal whose program consisted of mathematical communications, contact with external employers and a social component. Highlights <a href="https://www.youtube.com/watch?v=wVoqHy1H4rA">video</a>.</p>
 
- <p> Until I finished my MSc in Mathematics in 2019, I kept on iNIGMA's board as vice-president (via re-election).</p>
+ <p> Until I finished my MSc in Mathematics in 2019, I kept on iNIGMA's board as vice-president (re-elected).</p>
 
 Have a look at <a href="https://www.facebook.com/inigmafcup/">iNIGMA</a> on Facebook!
 
