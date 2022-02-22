@@ -8,7 +8,7 @@ Miscellaneous of essentially non-mathematical facts.
 
 <h3> iNIGMA </h3>
 
-<p> In 2016, I integrated iNIGMA: a group of undergraduate and MSc students in maths (at the University of Porto) who met informally to discuss interesting problems and support colleagues who where struggling with contents from the undergraduate courses.</p>
+<p> In 2016, I integrated iNIGMA: a group of undergraduate and MSc students in maths (at the University of Porto) who met informally to discuss interesting problems and support colleagues who were struggling with contents from the undergraduate courses.</p>
 
 <p> In 2017, we founded iNIGMA - Núcleo de Estudantes de Matemática da Universidade do Porto, which gave iNIGMA the legal status of a Students' Union. I was in the first board as vice-president. We took off with the coordination of several small events such as talks, workshops and tournaments.</p>
 
