@@ -17,7 +17,7 @@ Here is my teaching experience.
 
 <h3> Private </h3>
 
-Private tutor for several modules (Linear Algebra, Analysis, Vector Calculus, Numerical Analysis) of first and second year undergraduate students in engineering.
+Private tutor for several courses (Linear Algebra, Analysis, Vector Calculus, Numerical Analysis) of first and second year undergraduate students in engineering.
 
 <br />
 <br />
