@@ -18,7 +18,7 @@ Here you can find out about the talks I gave on my research as well as some rele
 <h3> Conferences/Workshops </h3>
 
 <ol reversed>
-  <li> March 2022 - Junior Ergodic Theory Meeting - ICMS, Edinburgh
+  <li> March 2022 - Junior Ergodic Theory Meeting - ICMS, Edinburgh</li>
   <li> June 2021 - Workshop on Deterministic Extremes and Recurrence - Exeter (online)</li>
   <li> March 2021 - Spring School on Transfer Operators (Classical and Modern Techniques) - Bernoulli Centre, Lausanne (online)</li>
 </ol>
